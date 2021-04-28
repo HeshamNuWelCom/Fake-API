@@ -1,0 +1,36 @@
+{
+    "users": [
+        {"id": 1000,
+         "username": "user1",
+         "role": "admin",
+         "firstName": "Tom",
+         "lastName": "Jackson",
+         "email": "abc@email.com",
+         "phone": "9021234567"
+        },
+        {"id": 2000,
+         "username": "user2",
+         "role": "admin",
+         "firstName": "Jack",
+         "lastName": "Tomson",
+         "email": "def@email.com",
+         "phone": "9021273432"
+        },
+        {"id": 3000,
+         "username": "user3",
+         "role": "admin",
+         "firstName": "Philip",
+         "lastName": "McMan",
+         "email": "fgh@email.com",
+         "phone": "9021234532"
+        },
+        {"id": 4000,
+         "username": "user4",
+         "role": "admin",
+         "firstName": "Hesham",
+         "lastName": "Jackson",
+         "email": "adplc@email.com",
+         "phone": "9021234125"
+        }
+    ]
+}
